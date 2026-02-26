@@ -23,7 +23,9 @@ The system is validated using the **BPI Challenge 2016 dataset**.
 
 ## 🎯 Problem Statement
 
-Business processes evolve over time.  
+<img width="771" height="671" alt="Process Mining drawio" src="https://github.com/user-attachments/assets/34239bb5-ae6e-4a70-9107-0f475036da64" />
+
+Business processes evolve.  
 Incremental concept drift causes gradual changes in process behavior, making detection challenging.
 
 Traditional methods focus mainly on sudden drift.
